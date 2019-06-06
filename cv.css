@@ -1,8 +1,7 @@
 body{
     background-image: url("./a.jpg");
-    background-position: center;
-    background-size: 100%;
-    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
 }
 .boi{
     background: linear-gradient(to left bottom, #4277c6, #4c71ca, #5a6acd, #6a62cd, #7b58cb);
@@ -10,6 +9,13 @@ body{
     
     
 }
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+}
+@-ms-viewport {
+    width: device-width ;
+}  
 .roll{
     background-image: linear-gradient(to right top, #0c47b5, #0077da, #00a1e7, #00c7e3, #12ebd8);    
     margin:0 auto;
@@ -35,7 +41,6 @@ body{
     color: #282828;
 }
 .dude{
-    height:100%;
     /*border-style: solid;
     border-radius: 10%;*/
 }
