@@ -1,0 +1,92 @@
+body{
+    background-image: url("./a.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.boi{
+    background: linear-gradient(to left bottom, #4277c6, #4c71ca, #5a6acd, #6a62cd, #7b58cb);
+    /*background-image: url("./paper.jpg");*/
+    
+    
+}
+.roll{
+    background-image: linear-gradient(to right top, #0c47b5, #0077da, #00a1e7, #00c7e3, #12ebd8);    
+    margin:0 auto;
+}
+.roll hr{
+    color: rgb(253, 253, 253);
+    background-color: rgb(255, 255, 255);
+    height: 5px;
+    border-radius: 5px;
+    width: 50%;
+}
+.skurr{
+    margin:0 auto;
+}
+.intro{
+    text-align: center;
+    margin: auto;
+}
+.bruh{
+    font-size: 90px;
+    font-weight: bold;
+    font-family: 'Coda Caption', sans-serif;
+    color: #282828;
+}
+.dude{
+    height:100%;
+    /*border-style: solid;
+    border-radius: 10%;*/
+}
+.doof{
+    font-size: 20px;
+}
+.links{
+    margin: 0;
+}
+.far {
+    color: rgb(49, 49, 49);
+}
+.fab{
+    color: rgb(49, 49, 49);
+}
+.raw{
+  background-color: #1f1e1e;
+  border: 1px solid rgb(20, 20, 20);
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  border-radius: 20px;
+}
+.raw p{
+    margin: 5%;
+  font-weight: bold;
+  color: #ffffff;
+}
+.raw h3{
+    
+    color: white;
+}
+/*hr .daug {
+    border-color: solid rgb(15, 15, 15);
+    border-radius: 5px;
+}*/
+.raw hr{
+    color: rgb(253, 253, 253);
+    background-color: rgb(255, 255, 255);
+    height: 5px;
+    border-radius: 5px;
+}
+.raw h6{
+    color: white;
+}
+.rad{
+    position: relative;
+    color: gray;
+}
+.bolt{
+    margin:0 auto;
+}
+.bol{
+    margin:0 auto;
+}
